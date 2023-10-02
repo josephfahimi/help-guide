@@ -11,10 +11,10 @@ The sections below are organized in descending order of importance:
   - You must identify skills demanded by the market. Use the StackOverflow Survery (https://survey.stackoverflow.co/2023/) to identify what is most popularily demanded by the market. Use Udemy to get these skills.
   - If residing in the DMV area, secure a security clearance through internships or job opportunities.
 - **Investments:**
-  - Open a brokerage account with platforms like Fidelity.
-  - Allocate the majority of your earnings into the S&P 500 (stock symbol: VOO) and avoid other stocks. 
-    - Diversifying into other stocks can be problematic due to the difficulty in determining sell points and the transient nature of many companies. Short-term investments also incur higher tax rates on gains.
-  - Practice disciplined monthly investments regardless of market conditions. Avoid withholding money for perceived market lows.
+  - Open a brokerage account with a platform like Fidelity.
+  - Allocate the majority of your earnings on the S&P 500 (stock symbol = VOO) and do not invest in any other stocks. 
+    - Diversifying with other stocks can be problematic due to the difficulty in determining when to sell and the transient nature of many companies (most companies dont survive). Short-term investments also incur higher tax rates on gains (income tax instead of the lower 15% capital gains tax).
+  - You must be disciplined with monthly investments regardless if market is high or low. Do not withholding money trying to antipate market lows.
 
 ## Fitness Regimen
 - **Routine:** Adopt a Push, Pull, Legs routine.
@@ -22,7 +22,7 @@ The sections below are organized in descending order of importance:
 - **Nutrition:**
   - To gain strength, increase your food intake. If ineffective, eat more.
   - To lose weight, reduce your food intake. If ineffective, eat less.
-- **Objective:** Focus on building strength in the gym. Your dietary habits should dictate weight management.
+- **Objective:** Use the gym to build strength. Your dietary habits should dictate weight management.
 
 ## Style Tips
 - **Clothing:** Opt for well-fitting clothes without concerning about the price tag.
