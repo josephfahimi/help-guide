@@ -5,8 +5,8 @@ This guide is meant to provide clear directives on how to succeed in life. The g
 This guide’s sections are ordered by importance top to bottom:
 
 Financials
-•	Try to have shelter that has no cost or low cost (parent’s home or extremely cheap rent) 
-•	Go to community college
+*Try to have shelter that has no cost or low cost (parent’s home or extremely cheap rent) 
+*Go to community college
 •	Go to college. Get a technical undergraduate degree that is in high demand by the market (computer science, electrical engineering)
 •	If you are in the DMV, get a security clearance (from internship or job)
 •	Open brokerage account to invest in stocks (Fidelity). 
