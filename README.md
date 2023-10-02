@@ -1,27 +1,29 @@
-# help-guide
+# Help Guide
 
-This guide is meant to provide clear directives on how to succeed in life. The guidance provided here is based on the assumption that you want to conduct actions which have a great probabilty of success to achieve great rewards (like become a millionaire, etc). It is not meant for the people who want to become famous or a billionaire. You would have to take riskier actions with lower probability of success than what is described below if you want to become famous or a billionaire.
+This guide aims to provide clear directives for those looking to achieve substantial success in life, particularly financial stability, without taking extreme risks. This is tailored towards individuals aspiring to become millionaires, and not suited for those aiming for fame or billionaire status, as those paths require riskier endeavors. 
 
-This guide’s sections are ordered by importance top to bottom:
+The sections below are organized in descending order of importance:
 
-Financials
-*Try to have shelter that has no cost or low cost (parent’s home or extremely cheap rent) 
-*Go to community college
-•	Go to college. Get a technical undergraduate degree that is in high demand by the market (computer science, electrical engineering)
-•	If you are in the DMV, get a security clearance (from internship or job)
-•	Open brokerage account to invest in stocks (Fidelity). 
-o	Invest a large majority of the money you make in the S&P 500 (stock symbol VOO). Do not invest in any other stocks.
-	If you try to invest in other stocks you will have problems. You will be unable to determine when to sell. Most companies rarely survive over a significant period, so most individual stocks are unlikely to survive. If you do invest only for the short-term, you will get charged income tax rate on your gains and not the lower 15% capital gains rate.
-o	Invest monthly with extreme discipline. The market will go down and up. You must be disciplined and invest the majority of your money monthly, even if market is down or up. Do not try to horde money to invest on low market. 
+## Financial Guidelines
+- **Housing:** Opt for zero or low-cost housing solutions like living with parents or finding extremely affordable rent.
+- **Education:**
+  - Enroll in a community college, then pursue a technical undergraduate degree in high-demand fields such as Computer Science or Electrical Engineering.
+  - If residing in the DMV area, secure a security clearance through internships or job opportunities.
+- **Investments:**
+  - Open a brokerage account with platforms like Fidelity.
+  - Allocate the majority of your earnings into the S&P 500 (stock symbol: VOO) and avoid other stocks. 
+    - Diversifying into other stocks can be problematic due to the difficulty in determining sell points and the transient nature of many companies. Short-term investments also incur higher tax rates on gains.
+  - Practice disciplined monthly investments regardless of market conditions. Avoid withholding money for perceived market lows.
 
-Fitness
-•	Push, Pull, Legs
-•	You should start your workout with exercise that targets multiple muscles (squat). After that, workout any other +4 workouts targeting the same muscles.
-•	If want to get stronger, eat more. If it is not working, eat even more. 
-•	If want to lose weight, eat less. If it’s not working, eat even less.
-•	The purpose of the gym is not to decrease or increase weight, it’s for building strength. How much you eat impacts increases or decreases of weight.
+## Fitness Regimen
+- **Routine:** Adopt a Push, Pull, Legs routine.
+- **Exercises:** Begin workouts with multi-muscle exercises like squats, followed by at least four other exercises targeting the same muscle groups.
+- **Nutrition:**
+  - To gain strength, increase your food intake. If ineffective, eat more.
+  - To lose weight, reduce your food intake. If ineffective, eat less.
+- **Objective:** Focus on building strength in the gym. Your dietary habits should dictate weight management.
 
-Style
-•	Wear fitted clothing, it does not have to be expensive.
-•	Clothes with more polyester and less cotton are nice.
-•	Clothes from concerts can be bought online.
+## Style Tips
+- **Clothing:** Opt for well-fitting clothes without concerning about the price tag.
+- **Fabric:** Clothing with higher polyester and lower cotton content can be comfortable and appealing.
+- **Merchandise:** Concert merchandise can be purchased online for unique apparel choices.
