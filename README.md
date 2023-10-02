@@ -1,6 +1,6 @@
 # Help Guide
 
-This guide aims to provide clear directives for those looking to achieve substantial success in life, particularly financial stability and social capability, without taking extreme risks. This is tailored towards individuals aspiring to become millionaires, and not suited for those aiming for fame or billionaire status, as those paths require riskier endeavors. 
+This guide aims to provide clear directives for those looking to achieve substantial success in life, particularly financial stability and social capability, without taking extreme risks. Financially, this is tailored towards individuals aspiring to become millionaires, but not suited for those aiming for fame or billionaire status, as those paths require riskier endeavors. 
 
 The sections below are organized in descending order of importance:
 
@@ -8,6 +8,7 @@ The sections below are organized in descending order of importance:
 - **Housing:** Opt for zero or low-cost housing solutions like living with parents or finding extremely affordable rent.
 - **Education:**
   - Enroll in a community college, then pursue a technical undergraduate degree in high-demand fields such as Computer Science or Electrical Engineering.
+  - You must identify skills demanded by the market. Use the StackOverflow Survery (https://survey.stackoverflow.co/2023/) to identify what is most popularily demanded by the market. Use Udemy to get these skills.
   - If residing in the DMV area, secure a security clearance through internships or job opportunities.
 - **Investments:**
   - Open a brokerage account with platforms like Fidelity.
