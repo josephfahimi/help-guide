@@ -1,6 +1,6 @@
 # Help Guide
 
-This guide aims to provide clear directives for those looking to achieve substantial success in life, particularly financial stability, without taking extreme risks. This is tailored towards individuals aspiring to become millionaires, and not suited for those aiming for fame or billionaire status, as those paths require riskier endeavors. 
+This guide aims to provide clear directives for those looking to achieve substantial success in life, particularly financial stability and social capability, without taking extreme risks. This is tailored towards individuals aspiring to become millionaires, and not suited for those aiming for fame or billionaire status, as those paths require riskier endeavors. 
 
 The sections below are organized in descending order of importance:
 
